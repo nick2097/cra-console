@@ -11,6 +11,7 @@ import {myTheme} from "./styles/Theme.styled";
 function App () {
     return (
         <div className="App">
+            <h1>My job</h1>
             <Menu>
                 <ul>
                     <li><a href="#">menu item 1</a></li>
