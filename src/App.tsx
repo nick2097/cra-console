@@ -11,6 +11,7 @@ import {myTheme} from "./styles/Theme.styled";
 function App () {
     return (
         <div>
+            <div>My favourite films</div>
         <div><span>Deev branch commit 1</span></div>
         <div>dev 2</div>
             <div>popup1</div>
