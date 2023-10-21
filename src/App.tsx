@@ -18,6 +18,7 @@ function App () {
                     <li><a href="#">menu item 3</a></li>
                 </ul>
             </Menu>
+            <p>Lorem ipsum dolor</p>
             <Box>
                 <StyledBtn color={myTheme.colors.primary} btnType={"primary"} active>Hello</StyledBtn>
                 <StyledBtn color={myTheme.colors.primary} btnType={"outlined"} >Hello</StyledBtn>
