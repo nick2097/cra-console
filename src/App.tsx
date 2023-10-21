@@ -10,6 +10,7 @@ import {myTheme} from "./styles/Theme.styled";
 
 function App () {
     return (
+        <div><span>Deev branch commit 1</span></div>
         <div className="App">
             <h1>My job</h1>
             <Menu>
