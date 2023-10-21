@@ -13,6 +13,7 @@ function App () {
         <div><span>Deev branch commit 1</span></div>
         <div>dev 2</div>
     <div>login commit</div>
+    <div>login 2</div>
         <div className="App">
             <h1>My job</h1>
             <Menu>
